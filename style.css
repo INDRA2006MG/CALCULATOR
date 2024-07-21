@@ -1,0 +1,24 @@
+input{
+    width:75px;
+    height:50px;
+    font-size: 25px;
+    border-radius:10px;
+    margin: 10px;
+    background-color: beige;
+    color: black;
+    text-align: center;
+
+}
+h1{
+    font-size:40px ;
+    color: darkolivegreen;
+    text-decoration-color: azure;
+}
+body{
+    text-align: center;
+    
+}
+.btn:hover{
+    background-color: cadetblue;
+    cursor: pointer;
+}
